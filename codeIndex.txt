@@ -1,0 +1,223 @@
+Code Index
+==========
+
+The Doxygen documentation (Code/docs/html/index.html) and the Javadoc
+documentation (docs/api/index.html) document the full set of C code and
+Java/C++ classes that form the core ADK code repository. That documentation
+is provided within the Algorithm Development Kit release code. We
+intentionally did not generate documentation for Figure code, Example code,
+or JUnit test cases.
+
+The following Code Index only covers the referenced code as found within
+the text of the book. We felt that including this material in the actual
+index within the book would be distracting. Nonetheless, this information
+is useful, so we present it here. The C methods and Java/C++ classes and
+methods are intermingled, with each Java class listed using the fully
+qualified name as it would appear within the repository.
+
+The page numbers reflects the most accurate page numbering available as of
+Tuesday October 7th. Once the printed book is available, we will spot check
+this index to see if any corrections are necessary. Until then, consider
+this index a Beta release.
+
+
+
+[A]
+allPairsShortest(), 167
+algs.model.gametree.AlphaBetaEvaluation, 221
+   bestMove(), 222
+java.lang.ArithmeticException, 49
+algs.model.searchtree.AStarSearch, 198
+   search, 199
+
+[B]
+algs.model.problems.eightpuzzle.BadEvaluator, 196, 200
+algs.model.tree.BalancedTree, 132
+   rotateLeft, 134
+   rotateRight, 134
+   search, 132
+algs.model.network.BFS_SearchArray, 233
+algs.model.network.BFS_SearchList, 233
+   findAugmentingPath(), 235
+bfs_search(), 152
+BinaryHeap, 155
+   decreaseKey, 156, 170
+algs.model.network.matching.BipartiteMatching, 240
+   compute(), 241
+algs.chapter10.table2.Board, 309
+algs.model.problems.tictactoe.model.BoardEvaluation, 175, 217, 218
+algs.model.searchtree.BreadthFirstSearch, 193
+   search, 193
+algs.model.problems.segmentIntersection.BruteForceAlgorithm, 258
+   intersections(), 258
+buildHeap(), 87, 90
+
+[C]
+java.util.Comparable, 113, 114
+   compareTo, 113
+java.util.Comparator, 211, 273
+   compare(), 211
+computeK(), 303
+constructShortestPath(), 168
+algs.model.problems.convexhull.andrew.ConvexHullScan, 264
+   compute(), 264
+countingSort(), 93
+
+[D]
+decreaseKey(), 155, 156, 172
+algs.model.searchtree.DepthFirstSearch, 184
+   search, 184
+algs.model.searchtree.DepthTransition, 183, 199
+algs.model.network.DFS_SearchArray, 233
+algs.model.network.DFS_SearchList, 233
+   findAugmentingPath(), 233
+dfs_search(), 148, 149
+dfs_visit(), 143, 145, 146, 147, 148, 149,
+algs.model.interval.DefaultSegmentTreeNode, 43
+algs.model.kdtree.DimensionalNode, 285, 286, 287, 293
+   drain(), 294
+   nearest(), 286, 291
+   search(), 293, 294
+do_qsort(), 82
+
+[E]
+algs.model.network.EdgeInfo, 231, 233
+algs.model.problems.segmentIntersection.EventPoint, 273, 276, 277
+algs.model.problems.segmentIntersection.EventQueue, 273, 276, 277
+exit(), 4
+extract(), 95
+
+[F]
+algs.model.FloatingPoint, 319
+   epsilon, 319
+algs.model.network.FlowNetwork, 231, 233
+   getEdgeStructure(), 231
+algs.model.network.FlowNetworkAdjacencyList, 233
+algs.model.network.FlowNetworkArray, 233
+algs.model.network.FordFulkerson, 231
+   compute(), 231, 232, 244
+   processPath(), 232, 235
+free(), 4, 129
+
+[G]
+algs.model.problems.eightpuzzle.GoodEvaluator, 196, 200, 202, 205, 319
+Graph, 141
+   load, 142
+
+[H]
+hash(), 95, 97, 98
+hashCode(), 120, 124
+java.util.Hashtable, 125, 126, 127, 128
+heapify(), 87, 88, 89
+algs.model.nd.Hypercube, 285
+
+[I]
+algs.model.IBinaryTreeNode, 45
+algs.model.gametree.IComparator, 210, 211
+   initialValue(), 210
+   opposite(), 210
+algs.model.problems.convexhull.IConvexHull, 259
+   compute(), 259
+algs.model.gametree.IEvaluation, 176
+algs.model.gametree.IGameMove, 175
+algs.model.gametree.IGameScore, 175
+   score(), 175, 206, 209
+algs.model.gametree.IGameState, 175
+algs.model.IHypercube, 253, 292
+algs.model.IInterval, 44, 45, 254
+algs.model.ILineSegment, 252, 253, 276
+algs.model.searchtree.IMove, 178, 179, 209
+algs.model.IMultiLineSegment, 253
+algs.model.IMultiPoint, 253
+algs.model.searchtree.INode, 176, 177, 183, 186
+algs.model.searchtree.INodeSet, 178
+algs.model.problems.segmentintersection.IntersectionDetection, 259, 274
+   intersections(), 259
+algs.model.gametree.IPlayer, 175
+   eval(), 175
+algs.model.IPoint, 252, 253, 276
+algs.model.IRectangle, 252, 253
+algs.model.searchtree.ISearch, 178
+IntegerPair, 141
+java.util.Iterator, 123
+
+[K]
+algs.model.kdtree.KDFactory, 284
+algs.model.kdtree.KDTree, 260, 286
+   nearest(), 260, 
+   search(), 260, 
+
+[L]
+algs.model.problems.segmentIntersection.LineState, 274, 277
+   determineIntersecting(), 235, 277
+algs.model.problems.segmentIntersection.LineSweep, 274
+   intersections(), 275
+java.util.LinkedList, 122, 124i
+list, 141
+java.util.ListElement, 122
+algs.model.search.ListHashTable, 107, 108
+
+[M]
+malloc(), 4, 52, 129
+mediansort(), 73
+medianOfFour(), 75
+medianOfMedians(), 77
+memmove(), 65
+algs.model.gametree.MinimaxEvaluation, 209
+   bestMove(), 210
+algs.model.gametree.MoveEvaluation, 213, 215, 216
+   maximum(), 215
+   minimum(), 215
+mst_prim(), 169
+
+[N]
+algs.model.gametree.NegmaxEvaluation, 214
+   bestMove(), 214
+numBuckets(), 95, 96, 97, 98
+
+[O]
+java.lang.Object
+   equals(), 108
+algs.model.network.Optimized, 236
+   processPath(), 237
+   search(), 237
+
+[P]
+algs.model.problems.convexhull.PartialHull, 263, 264, 266
+partition(), 69, 70, 71, 73, 74, 80, 81, 83, 84
+java.util.PriorityQueue, 277
+
+[Q]
+qsort(), 83
+
+[S]
+algs.model.network.Search, 231, 232, 233
+search(), 109, 132, 184, 192, 198
+algs.model.interval.SegmentTreeNode, 43, 44, 45
+selectKth(), 71, 72, 74, 78, 318
+selectPivotIndex(), 73, 82
+algs.model.search.SequentialSearch, 108
+sequentialSearch(), 108, 109, 110, 
+algs.model.network.ShortestPathArray, 242, 244
+   findAugmentingPath(), 243
+algs.chapter10.table2.SingleQuery, 310
+singleSourceShortest(), 155, 157, 160
+singleSourceShortestDense(), 158
+algs.model.searchtree.Solution, 178
+sortPointers(), 65, 85, 90, 96, 97
+sortValues(), 65
+algs.model.searchtree.states.StateStorageFactory, 178
+algs.model.interval.StoredIntervalsNode, 43, 44, 45
+java.lang.String, 121, 124, 317
+
+[T]
+algs.model.searchtree.Transition, 191
+algs.model.twod.TwoDPoint, 254
+
+[V]
+algs.model.network.VertexInfo, 231, 233, 235
+VertexList, 141
+algs.model.network.VertexStructure, 231, 233
+
+[W]
+algs.model.problems.eightpuzzle.WeakEvaluator, 196, 200

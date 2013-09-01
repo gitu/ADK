@@ -1,0 +1,254 @@
+12...
+Total number of entries: 213557
+   Load factor:52.150673
+
+Slots with 27 hits: 1
+Slots with 29 hits: 1
+Slots with 30 hits: 1
+Slots with 31 hits: 5
+Slots with 32 hits: 6
+Slots with 33 hits: 5
+Slots with 34 hits: 5
+Slots with 35 hits: 16
+Slots with 36 hits: 13
+Slots with 37 hits: 23
+Slots with 38 hits: 26
+Slots with 39 hits: 45
+Slots with 40 hits: 56
+Slots with 41 hits: 72
+Slots with 42 hits: 85
+Slots with 43 hits: 98
+Slots with 44 hits: 137
+Slots with 45 hits: 140
+Slots with 46 hits: 170
+Slots with 47 hits: 168
+Slots with 48 hits: 201
+Slots with 49 hits: 223
+Slots with 50 hits: 213
+Slots with 51 hits: 223
+Slots with 52 hits: 240
+Slots with 53 hits: 227
+Slots with 54 hits: 235
+Slots with 55 hits: 206
+Slots with 56 hits: 153
+Slots with 57 hits: 185
+Slots with 58 hits: 151
+Slots with 59 hits: 111
+Slots with 60 hits: 133
+Slots with 61 hits: 95
+Slots with 62 hits: 88
+Slots with 63 hits: 59
+Slots with 64 hits: 61
+Slots with 65 hits: 62
+Slots with 66 hits: 40
+Slots with 67 hits: 36
+Slots with 68 hits: 19
+Slots with 69 hits: 22
+Slots with 70 hits: 6
+Slots with 71 hits: 13
+Slots with 72 hits: 4
+Slots with 73 hits: 2
+Slots with 74 hits: 1
+Slots with 75 hits: 3
+Slots with 76 hits: 2
+Slots with 77 hits: 4
+Slots with 78 hits: 2
+Slots with 80 hits: 1
+Slots with 82 hits: 1
+   Slot statistics: min=27, max=82, avg:52.150673, weightedAvg:54.037735
+13...
+Total number of entries: 213557
+   Load factor:26.072153
+
+Slots with 9 hits: 1
+Slots with 10 hits: 1
+Slots with 11 hits: 4
+Slots with 12 hits: 9
+Slots with 13 hits: 19
+Slots with 14 hits: 27
+Slots with 15 hits: 54
+Slots with 16 hits: 79
+Slots with 17 hits: 134
+Slots with 18 hits: 170
+Slots with 19 hits: 275
+Slots with 20 hits: 327
+Slots with 21 hits: 398
+Slots with 22 hits: 474
+Slots with 23 hits: 607
+Slots with 24 hits: 640
+Slots with 25 hits: 655
+Slots with 26 hits: 627
+Slots with 27 hits: 614
+Slots with 28 hits: 608
+Slots with 29 hits: 517
+Slots with 30 hits: 410
+Slots with 31 hits: 347
+Slots with 32 hits: 294
+Slots with 33 hits: 216
+Slots with 34 hits: 200
+Slots with 35 hits: 161
+Slots with 36 hits: 115
+Slots with 37 hits: 79
+Slots with 38 hits: 45
+Slots with 39 hits: 30
+Slots with 40 hits: 23
+Slots with 41 hits: 9
+Slots with 42 hits: 11
+Slots with 43 hits: 5
+Slots with 44 hits: 3
+Slots with 45 hits: 2
+Slots with 46 hits: 1
+   Slot statistics: min=9, max=46, avg:26.072153, weightedAvg:27.5
+14...
+Total number of entries: 213557
+   Load factor:13.03528
+
+Slots with 2 hits: 2
+Slots with 3 hits: 22
+Slots with 4 hits: 45
+Slots with 5 hits: 116
+Slots with 6 hits: 227
+Slots with 7 hits: 445
+Slots with 8 hits: 762
+Slots with 9 hits: 1015
+Slots with 10 hits: 1445
+Slots with 11 hits: 1618
+Slots with 12 hits: 1760
+Slots with 13 hits: 1860
+Slots with 14 hits: 1680
+Slots with 15 hits: 1488
+Slots with 16 hits: 1233
+Slots with 17 hits: 856
+Slots with 18 hits: 652
+Slots with 19 hits: 456
+Slots with 20 hits: 280
+Slots with 21 hits: 175
+Slots with 22 hits: 110
+Slots with 23 hits: 69
+Slots with 24 hits: 33
+Slots with 25 hits: 15
+Slots with 26 hits: 12
+Slots with 27 hits: 6
+Slots with 28 hits: 1
+   Slot statistics: min=2, max=28, avg:13.03528, weightedAvg:15.0
+15...
+Total number of entries: 213557
+   Load factor:6.5174413
+
+Slots with 0 hits: 76
+Slots with 1 hits: 349
+Slots with 2 hits: 1116
+Slots with 3 hits: 2325
+Slots with 4 hits: 3653
+Slots with 5 hits: 4708
+Slots with 6 hits: 4959
+Slots with 7 hits: 4656
+Slots with 8 hits: 3857
+Slots with 9 hits: 2797
+Slots with 10 hits: 1889
+Slots with 11 hits: 1111
+Slots with 12 hits: 655
+Slots with 13 hits: 335
+Slots with 14 hits: 153
+Slots with 15 hits: 76
+Slots with 16 hits: 30
+Slots with 17 hits: 13
+Slots with 18 hits: 6
+Slots with 19 hits: 3
+   Slot statistics: min=0, max=19, avg:6.5174413, weightedAvg:9.5
+16...
+Total number of entries: 213557
+   Load factor:3.258671
+
+Slots with 0 hits: 2557
+Slots with 1 hits: 8190
+Slots with 2 hits: 13392
+Slots with 3 hits: 14546
+Slots with 4 hits: 11822
+Slots with 5 hits: 7673
+Slots with 6 hits: 4132
+Slots with 7 hits: 1946
+Slots with 8 hits: 812
+Slots with 9 hits: 311
+Slots with 10 hits: 115
+Slots with 11 hits: 36
+Slots with 12 hits: 2
+Slots with 13 hits: 1
+   Slot statistics: min=0, max=13, avg:3.258671, weightedAvg:6.5
+17...
+Total number of entries: 213557
+   Load factor:1.629323
+
+Slots with 0 hits: 25789
+Slots with 1 hits: 41858
+Slots with 2 hits: 34059
+Slots with 3 hits: 18469
+Slots with 4 hits: 7454
+Slots with 5 hits: 2568
+Slots with 6 hits: 660
+Slots with 7 hits: 165
+Slots with 8 hits: 39
+Slots with 9 hits: 9
+Slots with 10 hits: 1
+   Slot statistics: min=0, max=10, avg:1.629323, weightedAvg:5.0
+18...
+Total number of entries: 213557
+   Load factor:0.8146584
+
+Slots with 0 hits: 116186
+Slots with 1 hits: 94319
+Slots with 2 hits: 38637
+Slots with 3 hits: 10517
+Slots with 4 hits: 2066
+Slots with 5 hits: 362
+Slots with 6 hits: 53
+Slots with 7 hits: 3
+   Slot statistics: min=0, max=7, avg:0.8146584, weightedAvg:3.5
+19...
+Total number of entries: 213557
+   Load factor:0.40732843
+
+Slots with 0 hits: 348667
+Slots with 1 hits: 142530
+Slots with 2 hits: 28730
+Slots with 3 hits: 3910
+Slots with 4 hits: 418
+Slots with 5 hits: 28
+Slots with 6 hits: 3
+Slots with 7 hits: 1
+   Slot statistics: min=0, max=7, avg:0.40732843, weightedAvg:3.5
+20...
+Total number of entries: 213557
+   Load factor:0.20366402
+
+Slots with 0 hits: 855559
+Slots with 1 hits: 173912
+Slots with 2 hits: 17748
+Slots with 3 hits: 1281
+Slots with 4 hits: 69
+Slots with 5 hits: 6
+   Slot statistics: min=0, max=5, avg:0.20366402, weightedAvg:2.5
+p=1.0
+n,average,min,max,stdev,#
+4095,104.41836734693878,93,172,13.850396153021173,98
+8191,99.4795918367347,93,141,8.228977704337847,98
+16383,111.74489795918367,93,156,14.801303386804939,98
+32767,107.11224489795919,93,141,13.028820276413242,98
+65535,98.53061224489795,93,110,7.17987462434351,98
+131071,98.53061224489795,93,125,7.225675984689933,98
+262143,96.62244897959184,93,110,6.076005378811759,98
+524287,94.24489795918367,78,110,3.5203714204518177,98
+1048575,96.76530612244898,93,141,6.281704772892202,98
+
+p=0.0
+n,average,min,max,stdev,#
+4095,47.8469387755102,31,78,5.8685814524682325,98
+8191,45.255102040816325,31,78,6.136440461364558,98
+16383,48.60204081632653,31,109,8.057448108361319,98
+32767,47.326530612244895,31,63,4.845607023571792,98
+65535,45.142857142857146,31,63,5.029808055201005,98
+131071,44.46938775510204,31,63,6.075477295123394,98
+262143,44.316326530612244,31,47,5.81252990463521,98
+524287,44.96938775510204,31,47,5.1920916898815594,98
+1048575,43.224489795918366,31,47,6.6216306152676205,98
+
